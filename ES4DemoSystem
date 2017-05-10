@@ -3,5 +3,14 @@
 https://register.sapdevcenter.com/SUPSignForms/
 
 
+//Excercise :Use Odata provisioning from a Cloud Service 
+
 https://sapes4.sapdevcenter.com
 https://sapes4.sapdevcenter.com/sap/iwbep?sap-client=800
+
+//Use Odata provisioning from  Solid Core Backend
+
+//CloudConnector 
+https://wdflbmt7269:8443
+User: Administrator
+password:sap123
